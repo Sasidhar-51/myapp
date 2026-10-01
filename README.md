@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Sasidhar-51/myapp/blob/main/Gemini_Generated_Image_a3lyasa3lyasa3ly.png)
 <h1 align="center">Hi 👋, I'm K Sasidhar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding"width="400"src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
